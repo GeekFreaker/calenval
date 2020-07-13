@@ -1,6 +1,6 @@
 ### Collivery Assessment
 ---
-[Collivery Logo](https://collivery.net/img/collivery.net-logo.svg)
+![Collivery Logo](https://collivery.net/img/collivery.net-logo.svg)
 ---
 
 The c
